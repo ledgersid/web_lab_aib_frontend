@@ -134,4 +134,5 @@ BadStudent.forEach((index) => { console.log('Фио: ' + index.FIO + '; Оцен
 
 ### Задание 5:
 Да там и так всё в порядке))))))
+
 ![Да серьёзно. А ты че, не верил?))))](imgs/serious.jpg)
