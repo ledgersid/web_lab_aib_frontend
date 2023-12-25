@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### aaaаа
+а можно вы больше не будете такой стресс устраивать в последние дни, а я буду често лабы сама доделывать, а не идти мыть голову, записывать подружкам гневно-грустные гс и потом грустно списывать, потому что уже ничего не хочется. надеюсь на понимание, спасибо)
