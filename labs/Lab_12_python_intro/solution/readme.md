@@ -90,3 +90,4 @@ with open('input.txt', 'r') as file:
     symbols_line = ''.join(sorted_chars)
     print(symbols_line)
 ```
+
