@@ -5,7 +5,7 @@ from writter import XlsAnalyticPaymentWriter
 
 def load_data(file_path):
     full_path = os.path.join(
-        "C:\\Users\\Admin\\PycharmProjects\\lab13",
+        "C:\\MyLabsWebProgramming\\web_lab_aib_frontend\\labs\\Lab_13_python_oop",
         file_path
     )
 
